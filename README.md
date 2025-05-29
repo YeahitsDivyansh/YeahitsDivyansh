@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on building an Ed Tech Platform.<br><br>🌱 I’m currently learning Redis and Docker.<br><br>👯 I’m looking to collaborate on AI Integrated Projects.<br><br>How to reach me **divyansh972003@gmail.com**<br><br>Know about my experiences :- https://drive.google.com/file/d/1tnuxmdBiJhVhVPzbW5KiJicnEyKq8GGT/view?usp=sharing
+I’m currently working on building an Ed Tech Platform.<br><br>🌱 I’m currently diving into languages like Django and Golang.<br><br>👯 I’m looking to collaborate on AI Integrated Projects.<br><br>How to reach me **divyansh972003@gmail.com**<br><br>Know about my experiences :- https://drive.google.com/file/d/1tnuxmdBiJhVhVPzbW5KiJicnEyKq8GGT/view?usp=sharing
 
 
 ## 🌐 Socials:
